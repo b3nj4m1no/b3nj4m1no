@@ -1,6 +1,6 @@
-## Hi there 👋
-<img src="https://raw.githubusercontent.com/USER/ocbadge/main/card.svg"/>
+<img src="https://raw.githubusercontent.com/b3nj4m1no/ocbadge/main/card.svg"/>
 <!--
+## Hi there 👋
 **b3nj4m1no/b3nj4m1no** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
