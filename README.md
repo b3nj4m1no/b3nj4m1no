@@ -28,7 +28,7 @@ Bronze Medalist at the Italian Cybersecurity Olympics (OliCyber 2025).
 
 | Project | Description |
 | :--- | :--- |
-| [**CodeVinci CTF 2026**](https://challs.codevinci.it/) | Co-organized a 24h international CTF (Misc, Web, Crypto, Binary). |
+| [**CodeVinci CTF 2026**](https://challs.codevinci.it/) | SysAdmin for a 24h international CTF (Misc, Web, Crypto, Binary). |
 
 ---
 
