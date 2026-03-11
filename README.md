@@ -41,10 +41,10 @@ Bronze Medalist at the Italian Cybersecurity Olympics (OliCyber 2025).
 * **Website:** [benjamin.codevinci.it](https://benjamin.codevinci.it)
 * **Team:** [@code-vinci](https://github.com/code-vinci)
 
+<!-- 
 <br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=b3nj4m1no&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=8b949e&icon_color=8b949e&include_all_commits=true" height="150px" alt="GitHub Stats"/>
 </div>
-
-> *P.S. Scroll down to check the contribution graph.*
+-->
