@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### `whoami`
-**Matthew Gasparetti** (@b3nj4m1no)
+**Matthew Gasparetti** aka benjamin
+
 Cybersecurity student, CTF player, and developer based in Italy.
 
 Bronze Medalist at the Italian Cybersecurity Olympics (OliCyber 2025).
